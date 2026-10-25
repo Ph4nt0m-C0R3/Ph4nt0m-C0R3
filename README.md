@@ -1,6 +1,6 @@
 # Hi, I'm Aung Myo Pyae — C0R3
 
-**Cybersecurity student · CTF player · Application security enthusiast**
+**Cybersecurity student | CTF player | Cybersecurity enthusiast**
 
 Yangon, Myanmar · University of Information Technology · Expected graduation: **2028**
 
@@ -8,18 +8,16 @@ Yangon, Myanmar · University of Information Technology · Expected graduation: 
 
 ## About me
 
-I'm a **Cyber Security major at the University of Information Technology (UIT)**, studying from **2023 to 2028**. My career direction is cybersecurity, with a focus on **web application security, penetration testing, vulnerability analysis, and practical security research**.
+I'm a **Cyber Security major at the University of Information Technology (UIT)**, studying from **2023 to 2028**. My career goal is to work in **penetration testing, web application security, or cybersecurity analysis**. I'm enthusiastic about cybersecurity and build my foundation through university coursework, personal projects, and team CTF competitions.
 
-I learn through university coursework, personal projects, and team CTF competitions. I enjoy understanding how applications and binaries work, investigating their weaknesses, and documenting what I learn.
+Software development supports my cybersecurity learning. Building applications with Laravel, Java, and the MERN stack helps me understand application architecture, authentication, access control, APIs, and databases from a developer's perspective. I also explore binary exploitation, reverse engineering, digital forensics, and OSINT through coursework and CTF practice.
 
-Software development supports my security work. Building applications with Laravel, Java, and the MERN stack helps me understand application architecture, authentication, access control, APIs, and databases from a developer's perspective. Alongside web security, I study binary exploitation, reverse engineering, digital forensics, and OSINT.
+## Career goals
 
-## Current focus
-
-- Deepening my web application security and vulnerability assessment skills.
-- Practicing Web, Pwn, Reverse Engineering, Forensics, and OSINT through CTF challenges.
-- Improving how I investigate issues, document findings, and explain security concepts.
-- Continuing development of **Csec** and **Eco_Shop**, with upgrades planned beyond their current v1 releases.
+- Pursue an internship or entry-level role in penetration testing, web application security, or cybersecurity analysis.
+- Build my cybersecurity foundation through coursework, personal projects, and team CTF competitions.
+- Explore Web, Pwn, Reverse Engineering, Forensics, and OSINT challenges as part of my CTF learning.
+- Continue development of **Csec** and **Eco_Shop**, with upgrades planned beyond their current v1 releases.
 
 ## Skills and tools
 
@@ -87,9 +85,9 @@ All placements below are **team results**.
 
 ## Let's connect
 
-I'm looking for **cybersecurity internships and entry-level security opportunities**, particularly in **application security and vulnerability assessment**. I want to learn from experienced security professionals and contribute to investigating weaknesses, documenting findings, and improving application security.
+I'm looking for **cybersecurity internships and entry-level roles** in **penetration testing, web application security, or cybersecurity analysis**. I'm eager to learn from experienced security professionals and contribute with my cybersecurity studies, CTF experience, and software development background.
 
-I'm also open to freelance projects, CTF collaboration, and learning alongside other security enthusiasts.
+I'm also open to CTF collaboration and learning alongside other cybersecurity enthusiasts.
 
 - **Email:** [aungmyopyiacc@gmail.com](mailto:aungmyopyiacc@gmail.com)
 - **LinkedIn:** [Aung Myo Pyae](https://www.linkedin.com/in/aung-myo-pyae-c0r3)
